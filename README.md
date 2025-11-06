@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Data Analyst  
+# 👋 Hi, I'm a Durvank
 
 I’m a passionate **Data Analyst** who loves turning raw data into meaningful insights and actionable strategies.  
 I enjoy exploring data, building dashboards, and finding patterns that drive smarter business decisions.
@@ -32,8 +32,8 @@ An interactive HR dashboard that helps analyze employee attrition, performance, 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 **yourname@email.com**
+- 💼 [LinkedIn](www.linkedin.com/in/durvank-wagh)  
+- 📧 **durvankwagh0@email.com**
 ---
 
 ⭐ *“Data doesn’t speak for itself — it needs an analyst to tell its story.”*
