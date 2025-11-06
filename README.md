@@ -1,55 +1,39 @@
-# 👋 Hi, I'm Durvank Wagh  
+# 👋 Hi, I'm a Data Analyst  
 
-🎯 **Data Analyst | Power BI Developer | Data Visualization Enthusiast**  
-
-I’m passionate about transforming data into meaningful insights that drive better decisions.  
-I specialize in building interactive dashboards, performing in-depth analysis, and automating workflows using data tools and modern analytics practices.
+I’m a passionate **Data Analyst** who loves turning raw data into meaningful insights and actionable strategies.  
+I enjoy exploring data, building dashboards, and finding patterns that drive smarter business decisions.
 
 ---
 
-## 💡 What I Do
-- 📊 Create interactive dashboards and reports (Power BI, Excel)
-- 🧠 Analyze business data to uncover trends and KPIs
-- ⚙️ Automate data workflows with Python & SQL
-- 📈 Communicate insights through clear visual storytelling
+### 💡 About Me  
+- 📊 Skilled in **Excel, Power BI, SQL, and Python**  
+- 📈 Interested in **data visualization, analytics automation, and storytelling through data**  
+- 🧠 Constantly learning new tools and techniques to improve decision-making  
 
 ---
 
-## 🧩 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [📊  Blinkit Dashboard ](https://github.com/durvank2511/Blinkit-Dashboard) | EDA on customer purchase data to identify sales opportunities | Python, Power BI |
-| [🚗 Vehicle Management System](https://github.com/durvank2511/Vehicle-Management-System) | Real-time vehicle tracking and trip analysis | Flutter, .NET, SQL |
-| [🔥 Fire Detection System](https://github.com/durvank2511/Fire-Detection-System) | IoT-based fire detection with GPS alerting | Arduino, Firebase |
-| [📈 Excel Dashboard Projects](https://github.com/durvank2511) | Business performance dashboards using Excel & Power BI | Excel, Power BI |
+## 🚀 Featured Projects  
+
+### 🟢 [Blinkit Sales Dashboard](https://github.com/durvank2511/Blinkit-Dashboard)  
+A Power BI dashboard analyzing Blinkit’s sales performance — uncovering insights about top-selling products, customer patterns, and revenue growth drivers.  
+**Skills Used:** Power BI | DAX | Data Cleaning | Business Insights  
 
 ---
 
-🚀 Featured Projects
-🟢 Blinkit Sales Dashboard
-
-A Power BI dashboard analyzing Blinkit sales performance — uncovering insights about top-selling items, customer patterns, and revenue growth drivers.
-Skills: Data Cleaning | Power BI | DAX | Business Insights
-
-🔵 HR Analytics Dashboard
-
-An interactive HR dashboard that helps analyze employee attrition, performance, and satisfaction metrics to optimize workforce management.
-Skills: Excel | Power BI | Data Visualization | KPIs
-
-
-
-## 🧰 Tech Stack
-**Languages:** Python, SQL, DAX  
-**Tools:** Power BI, Excel, VS Code, SSMS  
-**Database:** SQL Server, MongoDB  
-**Other:** Git, APIs, Data Cleaning, ETL  
+### 🔵 [HR Analytics Dashboard](https://github.com/durvank2511/HR-Analytics)  
+An interactive HR dashboard that helps analyze employee attrition, performance, and satisfaction metrics to improve workforce management.  
+**Skills Used:** Excel | Power BI | Data Visualization | KPIs  
 
 ---
 
-## 📬 Connect with Me
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-📧 Email: yourname@email.com  
+## 🧰 Tools & Technologies  
+**Excel | Power BI | SQL | Python | Tableau | Pandas | DAX | Data Cleaning | Statistics**
 
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 **yourname@email.com**
 ---
 
 ⭐ *“Data doesn’t speak for itself — it needs an analyst to tell its story.”*
